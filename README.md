@@ -25,6 +25,7 @@ Python 3.x installed on your machine
 ## Installation
 ### Download:
 git clone https://github.com/your-username/todo-list-python.git
+
 cd todo-list-python
 
 ### Run the script:
