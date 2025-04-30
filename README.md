@@ -36,7 +36,7 @@ todo.py – Main application script
 todo_data.json – Auto-created to store your tasks
 
 ## 🛠 Example
-![Screenshot](https://github.com/pranavrajk/ToDo-List/images/todo.png)
+![Screenshot](https://github.com/pranavrajk/ToDo-List/blob/main/images/todo.png)
 
 
 🤝 Contributing
