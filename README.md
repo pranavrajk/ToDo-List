@@ -22,15 +22,15 @@ Store tasks persistently using a JSON file
 ### Prerequisites
 Python 3.x installed on your machine
 
-### Installation
-Download:
+## Installation
+### Download:
 git clone https://github.com/your-username/todo-list-python.git
 cd todo-list-python
 
-Run the script:
+### Run the script:
 python todo.py
 
-### Files
+## Files
 todo.py – Main application script
 
 todo_data.json – Auto-created to store your tasks
