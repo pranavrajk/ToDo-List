@@ -38,9 +38,5 @@ todo_data.json – Auto-created to store your tasks
 ## 🛠 Example
 ![Screenshot](https://github.com/pranavrajk/ToDo-List/blob/main/images/todo.png)
 
-
-🤝 Contributing
-Tankyou Amish CK for helping me out.
-
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
