@@ -40,4 +40,4 @@ todo_data.json – Auto-created to store your tasks
 ![Screenshot](https://github.com/pranavrajk/ToDo-List/blob/main/images/todo.png)
 
 ## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the MIT License.
